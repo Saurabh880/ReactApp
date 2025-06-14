@@ -2,7 +2,7 @@
   "name": "namaste-react",
   "version": "1.0.0",
   "description": "This is react app for learning",
-  "main": "app.js",
+  "default": "app.js",
   "scripts": {
     "test": "jest"
   },
@@ -21,5 +21,9 @@
   "homepage": "https://github.com/Saurabh880/ReactApp#readme",
   "devDependencies": {
     "parcel": "^2.15.2"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
   }
 }

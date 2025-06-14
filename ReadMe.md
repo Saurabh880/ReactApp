@@ -6,3 +6,15 @@ Notes :
 2. Bundler compresses the code
 3. We can recreate the node_modules from the package.json file
 4. Package.json - keeps track of version that is install. and Package.json - contains exact vversion of installed dependency
+5. npx parcel index.html - to run app. Also update main -> default in package.jsons
+6. npx execute the package
+7. Install react with npm install react ,npm install react-dom
+   # Parcel Benefits
+   file watching alog - written in c++
+   Caching - faster builds
+   Image optimisation
+   Minification of files
+   Bundling
+   Compress files
+   Code spliting
+   Differential bundling to support older browser

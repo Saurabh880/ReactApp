@@ -18,3 +18,5 @@ Notes :
    -Compress files
    -Code spliting
    -Differential bundling to support older browser
+   - HTTPs
+   - Error handling

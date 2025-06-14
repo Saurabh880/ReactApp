@@ -10,11 +10,11 @@ Notes :
 6. npx execute the package
 7. Install react with npm install react ,npm install react-dom
    # Parcel Benefits
-   file watching alog - written in c++
-   Caching - faster builds
-   Image optimisation
-   Minification of files
-   Bundling
-   Compress files
-   Code spliting
-   Differential bundling to support older browser
+   -file watching alog - written in c++
+   -Caching - faster builds
+   -Image optimisation
+   -Minification of files
+   -Bundling
+   -Compress files
+   -Code spliting
+   -Differential bundling to support older browser

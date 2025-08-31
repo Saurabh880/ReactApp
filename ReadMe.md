@@ -20,3 +20,5 @@ Notes :
    -Differential bundling to support older browser
    - HTTPs
    - Error handling
+8. A function that return a JSX code / ReactElement is functional component
+9. Component Composition - 2 component into one another
